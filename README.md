@@ -169,7 +169,7 @@ Este projeto demonstra capacidade em:
 
 ## 🔗 Link do Projeto
 
-👉 [PROJETO NOTENOOK LM (https://notebooklm.google.com/notebook/919fc77f-d1e8-4d7e-a366-2ffb6850b477)]
+👉 [PROJETO NOTEBOOK LM(https://notebooklm.google.com/notebook/919fc77f-d1e8-4d7e-a366-2ffb6850b477)]
 
 ---
 
